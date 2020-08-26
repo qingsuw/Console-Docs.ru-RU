@@ -28,6 +28,7 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
+      "billingual_type":"hover_over",
       "titleSuffix": "Windows Console",
       "searchScope": [
         "Console"
